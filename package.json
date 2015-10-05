@@ -1,0 +1,14 @@
+{
+  "name": "shard",
+  "version": "1.0.0",
+  "description": "Shard is an action based server, build on top of express (https://github.com/strongloop/expressjs.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Julien Sarazin <julien@coderpower.com>",
+  "license": "ISC"
+}
