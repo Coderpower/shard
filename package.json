@@ -1,15 +1,13 @@
 {
   "name": "shards",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "keywords": [
     "server"
   ],
   "description": "Shards is an action based server, build on top of express (https://github.com/strongloop/expressjs.com)",
   "author": "Julien Sarazin <julien@coderpower.com>",
   "license": "ISC",
-
   "main": "index.js",
-
   "dependencies": {
     "bluebird": "^2.9.25",
     "body-parser": "^1.13.1",
@@ -31,9 +29,7 @@
     "sinon": "^1.15.3",
     "sinon-chai": "^2.8.0"
   },
-
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --recursive --reporter dot --check-leaks --require test/support/ test/"
   }
 }
-
