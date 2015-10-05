@@ -1,1 +1,1 @@
-module.exports = require('lib/shards');
+module.exports = require('./lib/shards');
